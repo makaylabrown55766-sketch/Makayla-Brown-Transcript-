@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Academic Transcript</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="header">
+    Student · Academic Transcript
+  </div>
+
+  <div class="card">
+    <h1>Makayla Simone Brown</h1>
+    <p class="student-id">Student ID: 870745874</p>
+
+    <h2>Institution Credit — Fall 2025</h2>
+
+    <p><strong>Major:</strong> Nursing</p>
+    <p><strong>Academic Standing:</strong> Good Standing</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Subject</th>
+          <th>Course</th>
+          <th>Title</th>
+          <th>Grade</th>
+          <th>Credits</th>
+          <th>Quality Points</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>BIOL</td>
+          <td>1030</td>
+          <td>Organismal Biology</td>
+          <td>A</td>
+          <td>3</td>
+          <td>12.0</td>
+        </tr>
+        <tr>
+          <td>BIOL</td>
+          <td>1040L</td>
+          <td>Organismal Biology Lab</td>
+          <td>B</td>
+          <td>1</td>
+          <td>3.0</td>
+        </tr>
+        <tr>
+          <td>HIST</td>
+          <td>2111</td>
+          <td>United States History to 1865</td>
+          <td>B</td>
+          <td>3</td>
+          <td>9.0</td>
+        </tr>
+        <tr>
+          <td>INQR</td>
+          <td>2003</td>
+          <td>Women in the Visual Arts</td>
+          <td>B</td>
+          <td>3</td>
+          <td>9.0</td>
+        </tr>
+        <tr>
+          <td>MATH</td>
+          <td>1401</td>
+          <td>Elementary Statistics</td>
+          <td>B</td>
+          <td>3</td>
+          <td>9.0</td>
+        </tr>
+        <tr>
+          <td>SOCI</td>
+          <td>1101</td>
+          <td>Intro to Sociology</td>
+          <td>A</td>
+          <td>3</td>
+          <td>12.0</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="totals">
+      <p><strong>Total Credits:</strong> 16</p>
+      <p><strong>Total Quality Points:</strong> 54.0</p>
+      <p class="gpa"><strong>GPA:</strong> 3.38</p>
+    </div>
+  </div>
+
+</body>
+</html>
