@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background: #f3f4f8;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.header {
+  background: #5a5fd6;
+  color: white;
+  padding: 14px 20px;
+  font-size: 16px;
+}
+
+.card {
+  background: white;
+  width: 90%;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 25px;
+  border-radius: 6px;
+}
+
+h1 {
+  margin-bottom: 4px;
+}
+
+.student-id {
+  margin-top: 0;
+  color: #444;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th {
+  background: #f0f1f6;
+  text-align: left;
+  padding: 10px;
+  font-weight: 600;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.totals {
+  margin-top: 20px;
+}
+
+.gpa {
+  font-size: 20px;
+}
